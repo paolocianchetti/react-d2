@@ -1,3 +1,19 @@
+# La mia prima app in React!
+
+1. Utilizza il template create-react-app.
+
+2. Utilizza e importa bootstrap
+
+3. Il componente MyNav renderizza una navbar di bootstrap con i seguenti
+   link: Home, About e Browse.
+   Nota: non conosciamo ancora come re-indirizzare l'utente su una diversa pagina, quindi ho inserito '#' come href su ogni link.
+
+4. Il componente MyFooter renderizza un footer per l'applicazione.
+
+5. Il componente Welcome renderizza un Jumbotron e un titolo per l'applicazione.
+
+6. Il componente LatestRelease legge dal file fantasy.json i dati dei libri e li renderizza in una griglia di Cards contenenti le copertine dei libri.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
